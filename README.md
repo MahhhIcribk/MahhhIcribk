@@ -1,15 +1,12 @@
-### Boas vindas ao meu perfil 💜
-
-
-**MahhhIcribk/MahhhIcribk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### Welcome to my profile 💜
 
 - 🔭 My name is Maria
-- 🌱 I’m currently learning on the Alura platform
+- 🌱 I’m currently learning on the [Alura Platform](https://www.alura.com.br)
 - ⭐ I'm developing in JavaScript
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🩹 I am using this space for my organization and sharing of my developed projects
+
+### You can contact me via my email:
+
+- 📫 maria.aparecida.silva16@escola.pr.gov.br
+
+![](https://media.tenor.com/yO7B6Zur2O0AAAAi/fox-love.gif)
